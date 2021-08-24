@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body{
+    display: flex;
+}
+#div1{
+    width: 300px;
+    height: 400px;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+#div2{
+    width: 600px;
+    height: 500px;
+    background-color: gray;
+    margin-left: 600px;
+    margin-right: 20px;
+}

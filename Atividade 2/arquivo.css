@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+#pai{
+    display: flex;
+}
+#div1{
+    width: 33.333%;
+    height: 350px;
+    background-color: black;
+}
+#div2{
+    width: 33.333%;
+    height: 350px;
+    background-color: green;
+}
+#div3{
+    width: 33.333%;
+    height: 350px;
+    background-color: gray;
+}
